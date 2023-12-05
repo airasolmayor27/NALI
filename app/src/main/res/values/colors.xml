@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#007ACC</color> <!-- Replace with your primary color -->
+    <color name="colorPrimaryDark">#005C99</color> <!-- Replace with a darker shade of your primary color -->
+    <color name="colorAccent">#FF5722</color> <!-- Replace with your accent color -->
+
+    <!-- Text and background colors -->
+    <color name="colorTextPrimary">#FFFFFF</color> <!-- Replace with your primary text color -->
+    <color name="colorTextSecondary">#666666</color> <!-- Replace with a secondary text color -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Replace with your background color -->
+    <color name="cardColorRedBackground">#B33933</color>
+    <!-- Button colors -->
+    <color name="colorButtonNormal">#007ACC</color> <!-- Replace with the color for normal buttons -->
+    <color name="colorButtonPressed">#005C99</color> <!-- Replace with the color for pressed buttons -->
+
+    <!-- Divider and separator colors -->
+    <color name="colorDivider">#E0E0E0</color> <!-- Replace with your divider color -->
+
+    <!-- Status bar and navigation bar colors (optional) -->
+    <color name="colorStatusBar">#005C99</color> <!-- Replace with the status bar color -->
+    <color name="colorNavigationBar">#007ACC</color> <!-- Replace with the navigation bar color -->
+
+    <!-- Custom colors -->
+    <color name="colorCustom1">#FF4081</color> <!-- Replace with your custom color -->
+    <color name="colorCustom2">#4CAF50</color> <!-- Replace with another custom color -->
+</resources>
